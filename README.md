@@ -1,8 +1,5 @@
-# flutterstudy
+# flutterstudy 说明  flutter官网 [documentation](https://flutter.dev/).
 
-A new flutter module project.
+自己关于Flutter的简单学习
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.dev/).

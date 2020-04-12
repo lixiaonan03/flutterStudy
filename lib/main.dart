@@ -6,9 +6,11 @@ import 'package:flutter_boost/flutter_boost.dart';
 import 'FlutterMainApp.dart';
 import 'simple_page_widgets.dart';
 
-
+/// 应用入口的
 void main() {
+  //TODO 基于flutter boost 的项目混和原生使用的
 //  runApp(MyApp());
+  //TODO flutter项目可以直接跑的
   runApp(MyFlutterApp());
 
 }
